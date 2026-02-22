@@ -1,0 +1,727 @@
+[
+  {
+    "command": "huh",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494287.5327795,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "let's get it it",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494291.0204704,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "wonder what i live of the know lots of the world",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494294.0421407,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "what are them",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494298.0325055,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "when there's only one last alone",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494305.069739,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "we love of them away",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494308.215435,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "really",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494313.6289144,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "knows",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494324.1194963,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "we're going got them get it alone",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494331.0495443,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "he's an older than me that i think of it",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494336.5517476,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "but they were the logarithm of leader",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494339.0251818,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "the by moving give others will start chrome within the limits",
+    "action_type": "open_app",
+    "result": {
+      "success": true,
+      "target": "the by moving give others will  chrome within the limits"
+    },
+    "timestamp": 1769494431.9004428,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "his bucks government in brooklyn",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494432.9206154,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "where you have a brilliant",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494433.6081138,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "we live within a logic",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494434.04402,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "there will be there are the other",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494434.6404436,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "have a barrel of the hold up under the hook up in the remember listening to up",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494436.3902907,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "what they were of the name of the hear that annoyed when beginning of other remember that",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494437.7879138,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "there were a given",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494438.3036737,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "open logs",
+    "action_type": "open_app",
+    "result": {
+      "success": true,
+      "target": "logs"
+    },
+    "timestamp": 1769494903.9605117,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "hello looks",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494919.1120532,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "who knows",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494923.6803656,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "glows logs",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494929.1362047,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "who knows",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494936.1355743,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "it's",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494939.6306047,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "rex",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494944.620609,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "huh",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494949.6382203,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "one of the",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494954.6280584,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "who put settings",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769494970.1242647,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "hope or notepad",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501004.0793946,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "who would notepad",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501014.0648515,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "helix open opener bed",
+    "action_type": "open_app",
+    "result": {
+      "success": true,
+      "target": "helix  er bed"
+    },
+    "timestamp": 1769501034.0132177,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "what better open",
+    "action_type": "open_app",
+    "result": {
+      "success": true,
+      "target": "what better"
+    },
+    "timestamp": 1769501043.7347422,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "what about",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501048.0834954,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "what",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501052.0820255,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "notepad",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501055.5897963,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "notepad open",
+    "action_type": "open_app",
+    "result": {
+      "success": true,
+      "target": "notepad"
+    },
+    "timestamp": 1769501061.6081789,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "who's notepad",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501067.579537,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "nor bad blues",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501073.5793555,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "exit",
+    "action_type": "close_app",
+    "result": {
+      "success": false
+    },
+    "timestamp": 1769501116.3692985,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "hastings",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501124.3709052,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "thirteenth",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501128.369837,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "lose sitting",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501132.8797624,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "lose settings",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501138.8699188,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "use sitting",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501143.8702133,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "setting lose",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501147.8701205,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "eggs so dumb",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501154.8700993,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "he said don't",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501159.8801262,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "shut down",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501163.8755322,
+    "undoable": false,
+    "undo_action": null
+  },
+  {
+    "command": "so don't",
+    "action_type": "unknown",
+    "result": {
+      "success": false,
+      "message": "",
+      "target": null,
+      "undoable": false,
+      "state_change": null,
+      "exit": false
+    },
+    "timestamp": 1769501169.3591232,
+    "undoable": false,
+    "undo_action": null
+  }
+]

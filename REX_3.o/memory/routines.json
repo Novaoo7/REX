@@ -1,0 +1,137 @@
+{
+  "morning": {
+    "name": "Morning Routine",
+    "description": "Start your productive day",
+    "enabled": true,
+    "actions": [
+      {
+        "type": "speak",
+        "text": "Good morning! Starting your day.",
+        "priority": 1
+      },
+      {
+        "type": "open_app",
+        "target": "chrome",
+        "priority": 2
+      },
+      {
+        "type": "open_app",
+        "target": "notepad",
+        "priority": 3
+      },
+      {
+        "type": "speak",
+        "text": "Morning routine complete. Have a great day!",
+        "priority": 4
+      }
+    ],
+    "schedule": {
+      "time": "09:00",
+      "days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ]
+    }
+  },
+  "work": {
+    "name": "Work Mode",
+    "description": "Set up work environment",
+    "enabled": true,
+    "actions": [
+      {
+        "type": "speak",
+        "text": "Activating work mode",
+        "priority": 1
+      },
+      {
+        "type": "open_app",
+        "target": "vscode",
+        "priority": 2
+      },
+      {
+        "type": "open_app",
+        "target": "chrome",
+        "priority": 3
+      },
+      {
+        "type": "speak",
+        "text": "Work mode ready. Let's be productive!",
+        "priority": 4
+      }
+    ]
+  },
+  "sleep": {
+    "name": "Sleep Mode",
+    "description": "Wind down for the night",
+    "enabled": true,
+    "actions": [
+      {
+        "type": "speak",
+        "text": "Preparing sleep mode",
+        "priority": 1
+      },
+      {
+        "type": "close_all_apps",
+        "priority": 2
+      },
+      {
+        "type": "speak",
+        "text": "Good night. Sleep well!",
+        "priority": 3
+      }
+    ],
+    "schedule": {
+      "time": "22:00",
+      "days": [
+        "all"
+      ]
+    }
+  },
+  "focus": {
+    "name": "Focus Mode",
+    "description": "Deep work session",
+    "enabled": true,
+    "actions": [
+      {
+        "type": "speak",
+        "text": "Entering focus mode. Minimizing distractions.",
+        "priority": 1
+      },
+      {
+        "type": "close_app",
+        "target": "chrome",
+        "priority": 2
+      },
+      {
+        "type": "open_app",
+        "target": "notepad",
+        "priority": 3
+      }
+    ]
+  },
+  "break": {
+    "name": "Break Time",
+    "description": "Take a short break",
+    "enabled": true,
+    "actions": [
+      {
+        "type": "speak",
+        "text": "Time for a break. Stand up and stretch!",
+        "priority": 1
+      },
+      {
+        "type": "wait",
+        "seconds": 2,
+        "priority": 2
+      },
+      {
+        "type": "speak",
+        "text": "Remember to hydrate and rest your eyes.",
+        "priority": 3
+      }
+    ]
+  }
+}

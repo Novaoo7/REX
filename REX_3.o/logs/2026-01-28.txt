@@ -1,0 +1,6 @@
+[12:43:58] SYSTEM: REX 3.0 initialization started
+[12:43:59] SYSTEM: REX 3.0 initialization complete
+[12:44:05] AUTH: User admin logged in
+[12:44:17] SYSTEM: REX 3.0 initialization started
+[12:44:18] SYSTEM: REX 3.0 initialization complete
+[12:44:23] AUTH: User admin logged in

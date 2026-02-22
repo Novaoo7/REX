@@ -1,0 +1,38 @@
+[13:47:58] SYSTEM: REX 3.0 initialization started
+[13:47:59] SYSTEM: REX 3.0 initialization complete
+[13:48:10] AUTH: Failed login attempt for veer
+[13:48:20] AUTH: User admin logged in with role admin
+[13:48:20] ERROR: Audio stream failed: Failed to start audio stream: Error opening RawInputStream: Unanticipated host error [PaErrorCode -9999]: 'Undefined external error.' [MME error 1]
+[16:58:01] SYSTEM: REX 3.0 initialization started
+[16:58:02] SYSTEM: REX 3.0 initialization complete
+[16:58:33] AUTH: User admin logged in with role admin
+[16:58:33] ERROR: Audio stream failed: Failed to start audio stream: Error opening RawInputStream: Unanticipated host error [PaErrorCode -9999]: 'Undefined external error.' [MME error 1]
+[16:59:24] SYSTEM: REX 3.0 initialization started
+[16:59:25] SYSTEM: REX 3.0 initialization complete
+[16:59:35] AUTH: User admin logged in with role admin
+[16:59:35] SYSTEM: REX entered sleep mode
+[16:59:51] SYSTEM: REX activated
+[17:00:01] USER: what next
+[17:00:01] INTENT: unknown (confidence: 0.00)
+[17:00:01] PERFORMANCE: Command executed in 0.000s
+[17:00:54] SYSTEM: REX 3.0 initialization started
+[17:00:55] SYSTEM: REX 3.0 initialization complete
+[17:01:02] AUTH: Failed login attempt for admin
+[17:01:12] AUTH: User admin logged in with role admin
+[17:01:12] SYSTEM: REX entered sleep mode
+[17:01:12] PROACTIVE: Your work day is ending. Should I close all work apps?
+[17:01:22] SYSTEM: REX activated
+[17:01:29] USER: when notepad
+[17:01:37] USER: Low confidence command cancelled
+[17:01:44] USER: hooks logs
+[17:01:44] INTENT: unknown (confidence: 0.00)
+[17:01:44] PERFORMANCE: Command executed in 0.002s
+[17:01:59] USER: this is beautiful
+[17:01:59] INTENT: unknown (confidence: 0.00)
+[17:01:59] PERFORMANCE: Command executed in 0.005s
+[17:02:17] USER: hi
+[17:02:17] INTENT: greeting (confidence: 1.00)
+[17:02:17] PERFORMANCE: Command executed in 0.000s
+[17:02:22] USER: open logs
+[17:02:22] INTENT: open_logs (confidence: 1.00)
+[17:02:22] PERFORMANCE: Command executed in 0.000s

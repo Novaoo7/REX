@@ -1,0 +1,40 @@
+{
+  "sample_rate": 16000,
+  "block_size": 8000,
+  "speech_rate": 170,
+  "speech_volume": 1.0,
+  "vosk_model_path": "model",
+  "confidence_threshold": 0.7,
+  "noise_filter_enabled": true,
+  "max_login_attempts": 3,
+  "session_timeout": 3600,
+  "require_password_for_sensitive": true,
+  "password_min_length": 6,
+  "max_search_depth": 3,
+  "max_search_results": 10,
+  "command_history_size": 50,
+  "cache_timeout": 300,
+  "enable_performance_monitoring": true,
+  "logs_dir": "logs",
+  "memory_dir": "memory",
+  "cache_dir": "cache",
+  "config_file": "config.json",
+  "users_file": "users_secure.json",
+  "enable_proactive_suggestions": true,
+  "enable_context_memory": true,
+  "enable_routines": true,
+  "enable_advanced_features": true,
+  "verbosity": "normal",
+  "show_confidence": true,
+  "show_intent": true,
+  "wake_words": [
+    "rex",
+    "wake up",
+    "hey rex"
+  ],
+  "sleep_words": [
+    "sleep",
+    "go to sleep",
+    "rest"
+  ]
+}

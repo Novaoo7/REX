@@ -1,0 +1,38 @@
+{
+  "preferences": {
+    "user_name": "admin",
+    "user_role": "admin",
+    "default_browser": "chrome",
+    "default_editor": "notepad",
+    "work_hours": {
+      "start": 9,
+      "end": 17
+    },
+    "verbosity": "normal"
+  },
+  "patterns": {
+    "frequent_apps": {},
+    "frequent_files": {},
+    "frequent_folders": {},
+    "daily_routines": [],
+    "command_sequences": []
+  },
+  "knowledge": {
+    "contacts": {},
+    "important_dates": {},
+    "custom_facts": {},
+    "locations": {},
+    "notes": []
+  },
+  "learning": {
+    "corrections": {},
+    "command_aliases": {},
+    "context_links": {}
+  },
+  "statistics": {
+    "total_commands": 0,
+    "session_count": 0,
+    "last_session": "2026-01-28T12:44:23.916509",
+    "most_used_commands": {}
+  }
+}

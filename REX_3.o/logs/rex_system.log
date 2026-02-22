@@ -1,0 +1,420 @@
+2026-01-21 16:44:12 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-21 16:44:12 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-21 16:44:13 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-21 16:44:13 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-21 16:44:39 - REX - INFO - AUTH: Failed login attempt for veer
+2026-01-21 16:44:39 - REX - INFO - AUTH: Failed login attempt for veer
+2026-01-21 16:44:52 - REX - INFO - AUTH: Failed login attempt for veer
+2026-01-21 16:44:52 - REX - INFO - AUTH: Failed login attempt for veer
+2026-01-21 16:46:22 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-21 16:46:22 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-21 16:46:22 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-21 16:46:22 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-21 16:46:26 - REX - INFO - SYSTEM: REX activated
+2026-01-21 16:46:26 - REX - INFO - SYSTEM: REX activated
+2026-01-21 16:46:33 - REX - INFO - USER: rex
+2026-01-21 16:46:33 - REX - INFO - USER: rex
+2026-01-21 16:46:33 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-21 16:46:33 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-21 16:46:33 - REX - INFO - PERFORMANCE: Command executed in 0.001s
+2026-01-21 16:46:33 - REX - INFO - PERFORMANCE: Command executed in 0.001s
+2026-01-21 16:46:42 - REX - INFO - USER: open settings
+2026-01-21 16:46:42 - REX - INFO - USER: open settings
+2026-01-21 16:46:42 - REX - INFO - INTENT: open_app (confidence: 0.90)
+2026-01-21 16:46:42 - REX - INFO - INTENT: open_app (confidence: 0.90)
+2026-01-21 16:46:42 - REX - INFO - PERFORMANCE: Command executed in 0.040s
+2026-01-21 16:46:42 - REX - INFO - PERFORMANCE: Command executed in 0.040s
+2026-01-21 16:47:31 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-21 16:47:31 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-21 16:47:31 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-21 16:47:31 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-21 16:47:38 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-21 16:47:38 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-21 16:47:38 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-21 16:47:38 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-21 16:47:43 - REX - INFO - SYSTEM: REX activated
+2026-01-21 16:47:43 - REX - INFO - SYSTEM: REX activated
+2026-01-21 16:47:51 - REX - INFO - USER: rex
+2026-01-21 16:47:51 - REX - INFO - USER: rex
+2026-01-21 16:47:51 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-21 16:47:51 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-21 16:47:51 - REX - INFO - PERFORMANCE: Command executed in 0.002s
+2026-01-21 16:47:51 - REX - INFO - PERFORMANCE: Command executed in 0.002s
+2026-01-21 16:47:54 - REX - INFO - USER: open logs
+2026-01-21 16:47:54 - REX - INFO - USER: open logs
+2026-01-21 16:47:54 - REX - INFO - INTENT: open_logs (confidence: 1.00)
+2026-01-21 16:47:54 - REX - INFO - INTENT: open_logs (confidence: 1.00)
+2026-01-21 16:47:54 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-21 16:47:54 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-22 13:47:58 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 13:47:58 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 13:47:59 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 13:47:59 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 13:48:10 - REX - INFO - AUTH: Failed login attempt for veer
+2026-01-22 13:48:10 - REX - INFO - AUTH: Failed login attempt for veer
+2026-01-22 13:48:20 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 13:48:20 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 13:48:20 - REX - INFO - ERROR: Audio stream failed: Failed to start audio stream: Error opening RawInputStream: Unanticipated host error [PaErrorCode -9999]: 'Undefined external error.' [MME error 1]
+2026-01-22 13:48:20 - REX - INFO - ERROR: Audio stream failed: Failed to start audio stream: Error opening RawInputStream: Unanticipated host error [PaErrorCode -9999]: 'Undefined external error.' [MME error 1]
+2026-01-22 16:58:01 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 16:58:01 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 16:58:02 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 16:58:02 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 16:58:33 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 16:58:33 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 16:58:33 - REX - INFO - ERROR: Audio stream failed: Failed to start audio stream: Error opening RawInputStream: Unanticipated host error [PaErrorCode -9999]: 'Undefined external error.' [MME error 1]
+2026-01-22 16:58:33 - REX - INFO - ERROR: Audio stream failed: Failed to start audio stream: Error opening RawInputStream: Unanticipated host error [PaErrorCode -9999]: 'Undefined external error.' [MME error 1]
+2026-01-22 16:59:24 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 16:59:24 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 16:59:25 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 16:59:25 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 16:59:35 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 16:59:35 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 16:59:35 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-22 16:59:35 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-22 16:59:51 - REX - INFO - SYSTEM: REX activated
+2026-01-22 16:59:51 - REX - INFO - SYSTEM: REX activated
+2026-01-22 17:00:01 - REX - INFO - USER: what next
+2026-01-22 17:00:01 - REX - INFO - USER: what next
+2026-01-22 17:00:01 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-22 17:00:01 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-22 17:00:01 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-22 17:00:01 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-22 17:00:54 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 17:00:54 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-22 17:00:55 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 17:00:55 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-22 17:01:02 - REX - INFO - AUTH: Failed login attempt for admin
+2026-01-22 17:01:02 - REX - INFO - AUTH: Failed login attempt for admin
+2026-01-22 17:01:12 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 17:01:12 - REX - INFO - AUTH: User admin logged in with role admin
+2026-01-22 17:01:12 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-22 17:01:12 - REX - INFO - SYSTEM: REX entered sleep mode
+2026-01-22 17:01:12 - REX - INFO - PROACTIVE: Your work day is ending. Should I close all work apps?
+2026-01-22 17:01:12 - REX - INFO - PROACTIVE: Your work day is ending. Should I close all work apps?
+2026-01-22 17:01:22 - REX - INFO - SYSTEM: REX activated
+2026-01-22 17:01:22 - REX - INFO - SYSTEM: REX activated
+2026-01-22 17:01:29 - REX - INFO - USER: when notepad
+2026-01-22 17:01:29 - REX - INFO - USER: when notepad
+2026-01-22 17:01:37 - REX - INFO - USER: Low confidence command cancelled
+2026-01-22 17:01:37 - REX - INFO - USER: Low confidence command cancelled
+2026-01-22 17:01:44 - REX - INFO - USER: hooks logs
+2026-01-22 17:01:44 - REX - INFO - USER: hooks logs
+2026-01-22 17:01:44 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-22 17:01:44 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-22 17:01:44 - REX - INFO - PERFORMANCE: Command executed in 0.002s
+2026-01-22 17:01:44 - REX - INFO - PERFORMANCE: Command executed in 0.002s
+2026-01-22 17:01:59 - REX - INFO - USER: this is beautiful
+2026-01-22 17:01:59 - REX - INFO - USER: this is beautiful
+2026-01-22 17:01:59 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-22 17:01:59 - REX - INFO - INTENT: unknown (confidence: 0.00)
+2026-01-22 17:01:59 - REX - INFO - PERFORMANCE: Command executed in 0.005s
+2026-01-22 17:01:59 - REX - INFO - PERFORMANCE: Command executed in 0.005s
+2026-01-22 17:02:17 - REX - INFO - USER: hi
+2026-01-22 17:02:17 - REX - INFO - USER: hi
+2026-01-22 17:02:17 - REX - INFO - INTENT: greeting (confidence: 1.00)
+2026-01-22 17:02:17 - REX - INFO - INTENT: greeting (confidence: 1.00)
+2026-01-22 17:02:17 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-22 17:02:17 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-22 17:02:22 - REX - INFO - USER: open logs
+2026-01-22 17:02:22 - REX - INFO - USER: open logs
+2026-01-22 17:02:22 - REX - INFO - INTENT: open_logs (confidence: 1.00)
+2026-01-22 17:02:22 - REX - INFO - INTENT: open_logs (confidence: 1.00)
+2026-01-22 17:02:22 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-22 17:02:22 - REX - INFO - PERFORMANCE: Command executed in 0.000s
+2026-01-23 10:15:23 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-23 10:15:23 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-23 10:15:25 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-23 10:15:25 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-23 10:15:33 - REX - INFO - AUTH: User admin logged in
+2026-01-23 10:15:33 - REX - INFO - AUTH: User admin logged in
+2026-01-23 10:15:57 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-23 10:15:57 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-23 10:15:58 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-23 10:15:58 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-23 10:16:05 - REX - INFO - AUTH: User admin logged in
+2026-01-23 10:16:05 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:25:01 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:25:01 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:25:02 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:25:02 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:25:10 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:25:10 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:25:39 - REX - INFO - SYSTEM: REX activated
+2026-01-27 11:25:39 - REX - INFO - SYSTEM: REX activated
+2026-01-27 11:25:44 - REX - INFO - COMMAND: unknown: he loves
+2026-01-27 11:25:44 - REX - INFO - COMMAND: unknown: he loves
+2026-01-27 11:25:52 - REX - INFO - COMMAND: unknown: hope
+2026-01-27 11:25:52 - REX - INFO - COMMAND: unknown: hope
+2026-01-27 11:25:57 - REX - INFO - COMMAND: unknown: rex who
+2026-01-27 11:25:57 - REX - INFO - COMMAND: unknown: rex who
+2026-01-27 11:26:03 - REX - INFO - COMMAND: greeting: hey
+2026-01-27 11:26:03 - REX - INFO - COMMAND: greeting: hey
+2026-01-27 11:26:09 - REX - INFO - COMMAND: unknown: rex
+2026-01-27 11:26:09 - REX - INFO - COMMAND: unknown: rex
+2026-01-27 11:26:18 - REX - INFO - COMMAND: unknown: who
+2026-01-27 11:26:18 - REX - INFO - COMMAND: unknown: who
+2026-01-27 11:26:22 - REX - INFO - COMMAND: unknown: who can logs
+2026-01-27 11:26:22 - REX - INFO - COMMAND: unknown: who can logs
+2026-01-27 11:26:43 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:26:43 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:27:03 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:27:03 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:27:12 - REX - INFO - COMMAND: unknown: when
+2026-01-27 11:27:12 - REX - INFO - COMMAND: unknown: when
+2026-01-27 11:27:43 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:27:43 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:28:00 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:28:00 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:28:26 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:28:26 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:28:51 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:28:51 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:29:11 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:29:11 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:29:32 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:29:32 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:31:17 - REX - INFO - COMMAND: web_search: google
+2026-01-27 11:31:17 - REX - INFO - COMMAND: web_search: google
+2026-01-27 11:31:19 - REX - INFO - COMMAND: unknown: would
+2026-01-27 11:31:19 - REX - INFO - COMMAND: unknown: would
+2026-01-27 11:31:29 - REX - INFO - COMMAND: unknown: going
+2026-01-27 11:31:29 - REX - INFO - COMMAND: unknown: going
+2026-01-27 11:31:31 - REX - INFO - COMMAND: unknown: only school
+2026-01-27 11:31:31 - REX - INFO - COMMAND: unknown: only school
+2026-01-27 11:31:36 - REX - INFO - COMMAND: unknown: even had a lovely
+2026-01-27 11:31:36 - REX - INFO - COMMAND: unknown: even had a lovely
+2026-01-27 11:31:38 - REX - INFO - COMMAND: unknown: the
+2026-01-27 11:31:38 - REX - INFO - COMMAND: unknown: the
+2026-01-27 11:31:40 - REX - INFO - COMMAND: unknown: graham
+2026-01-27 11:31:40 - REX - INFO - COMMAND: unknown: graham
+2026-01-27 11:31:46 - REX - INFO - COMMAND: unknown: so i had to have to go
+2026-01-27 11:31:46 - REX - INFO - COMMAND: unknown: so i had to have to go
+2026-01-27 11:31:48 - REX - INFO - COMMAND: unknown: what available to them
+2026-01-27 11:31:48 - REX - INFO - COMMAND: unknown: what available to them
+2026-01-27 11:31:53 - REX - INFO - COMMAND: unknown: the
+2026-01-27 11:31:53 - REX - INFO - COMMAND: unknown: the
+2026-01-27 11:32:10 - REX - INFO - COMMAND: unknown: who but don't deliver
+2026-01-27 11:32:10 - REX - INFO - COMMAND: unknown: who but don't deliver
+2026-01-27 11:32:13 - REX - INFO - COMMAND: unknown: so does gordon but it was earlier
+2026-01-27 11:32:13 - REX - INFO - COMMAND: unknown: so does gordon but it was earlier
+2026-01-27 11:32:16 - REX - INFO - COMMAND: unknown: so does couldn't live with it
+2026-01-27 11:32:16 - REX - INFO - COMMAND: unknown: so does couldn't live with it
+2026-01-27 11:32:31 - REX - INFO - COMMAND: date_query: today
+2026-01-27 11:32:31 - REX - INFO - COMMAND: date_query: today
+2026-01-27 11:32:51 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:32:51 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:33:04 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:33:04 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:33:13 - REX - INFO - COMMAND: unknown: double the with a lot of
+2026-01-27 11:33:13 - REX - INFO - COMMAND: unknown: double the with a lot of
+2026-01-27 11:33:36 - REX - INFO - COMMAND: greeting: hello college
+2026-01-27 11:33:36 - REX - INFO - COMMAND: greeting: hello college
+2026-01-27 11:33:56 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:33:56 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:34:16 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:34:16 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:34:22 - REX - INFO - COMMAND: unknown: hooker
+2026-01-27 11:34:22 - REX - INFO - COMMAND: unknown: hooker
+2026-01-27 11:34:49 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:34:49 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:34:58 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:34:58 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:35:03 - REX - INFO - COMMAND: unknown: the
+2026-01-27 11:35:03 - REX - INFO - COMMAND: unknown: the
+2026-01-27 11:35:23 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:35:23 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:35:49 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:35:49 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:35:55 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:35:55 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:36:15 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:36:15 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:36:21 - REX - INFO - COMMAND: unknown: what the
+2026-01-27 11:36:21 - REX - INFO - COMMAND: unknown: what the
+2026-01-27 11:36:29 - REX - INFO - COMMAND: unknown: who doesn't monopolistic
+2026-01-27 11:36:29 - REX - INFO - COMMAND: unknown: who doesn't monopolistic
+2026-01-27 11:36:34 - REX - INFO - COMMAND: unknown: go
+2026-01-27 11:36:34 - REX - INFO - COMMAND: unknown: go
+2026-01-27 11:36:39 - REX - INFO - COMMAND: greeting: hello
+2026-01-27 11:36:39 - REX - INFO - COMMAND: greeting: hello
+2026-01-27 11:36:59 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:36:59 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:37:03 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:37:03 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:37:03 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:37:03 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:37:10 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:37:10 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:39:03 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:39:03 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:39:04 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:39:04 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:39:11 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:39:11 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:39:17 - REX - INFO - SYSTEM: REX activated
+2026-01-27 11:39:17 - REX - INFO - SYSTEM: REX activated
+2026-01-27 11:39:22 - REX - INFO - COMMAND: unknown: hope and logs
+2026-01-27 11:39:22 - REX - INFO - COMMAND: unknown: hope and logs
+2026-01-27 11:39:32 - REX - INFO - COMMAND: help: help
+2026-01-27 11:39:32 - REX - INFO - COMMAND: help: help
+2026-01-27 11:39:52 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:39:52 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:40:12 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:40:12 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:40:21 - REX - INFO - COMMAND: greeting: hello
+2026-01-27 11:40:21 - REX - INFO - COMMAND: greeting: hello
+2026-01-27 11:40:34 - REX - INFO - COMMAND: unknown: the demon
+2026-01-27 11:40:34 - REX - INFO - COMMAND: unknown: the demon
+2026-01-27 11:40:44 - REX - INFO - COMMAND: unknown: the local papers
+2026-01-27 11:40:44 - REX - INFO - COMMAND: unknown: the local papers
+2026-01-27 11:41:01 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:41:01 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:41:07 - REX - INFO - COMMAND: unknown: what are they should
+2026-01-27 11:41:07 - REX - INFO - COMMAND: unknown: what are they should
+2026-01-27 11:41:27 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:41:27 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:41:31 - REX - INFO - COMMAND: unknown: let's get it it
+2026-01-27 11:41:31 - REX - INFO - COMMAND: unknown: let's get it it
+2026-01-27 11:41:34 - REX - INFO - COMMAND: unknown: wonder what i live of the know lots of the world
+2026-01-27 11:41:34 - REX - INFO - COMMAND: unknown: wonder what i live of the know lots of the world
+2026-01-27 11:41:38 - REX - INFO - COMMAND: unknown: what are them
+2026-01-27 11:41:38 - REX - INFO - COMMAND: unknown: what are them
+2026-01-27 11:41:45 - REX - INFO - COMMAND: unknown: when there's only one last alone
+2026-01-27 11:41:45 - REX - INFO - COMMAND: unknown: when there's only one last alone
+2026-01-27 11:41:48 - REX - INFO - COMMAND: unknown: we love of them away
+2026-01-27 11:41:48 - REX - INFO - COMMAND: unknown: we love of them away
+2026-01-27 11:41:53 - REX - INFO - COMMAND: unknown: really
+2026-01-27 11:41:53 - REX - INFO - COMMAND: unknown: really
+2026-01-27 11:42:04 - REX - INFO - COMMAND: unknown: knows
+2026-01-27 11:42:04 - REX - INFO - COMMAND: unknown: knows
+2026-01-27 11:42:11 - REX - INFO - COMMAND: unknown: we're going got them get it alone
+2026-01-27 11:42:11 - REX - INFO - COMMAND: unknown: we're going got them get it alone
+2026-01-27 11:42:16 - REX - INFO - COMMAND: unknown: he's an older than me that i think of it
+2026-01-27 11:42:16 - REX - INFO - COMMAND: unknown: he's an older than me that i think of it
+2026-01-27 11:42:19 - REX - INFO - COMMAND: unknown: but they were the logarithm of leader
+2026-01-27 11:42:19 - REX - INFO - COMMAND: unknown: but they were the logarithm of leader
+2026-01-27 11:43:51 - REX - INFO - COMMAND: open_app: the by moving give others will start chrome within the limits
+2026-01-27 11:43:51 - REX - INFO - COMMAND: open_app: the by moving give others will start chrome within the limits
+2026-01-27 11:43:52 - REX - INFO - COMMAND: unknown: his bucks government in brooklyn
+2026-01-27 11:43:52 - REX - INFO - COMMAND: unknown: his bucks government in brooklyn
+2026-01-27 11:43:53 - REX - INFO - COMMAND: unknown: where you have a brilliant
+2026-01-27 11:43:53 - REX - INFO - COMMAND: unknown: where you have a brilliant
+2026-01-27 11:43:54 - REX - INFO - COMMAND: unknown: we live within a logic
+2026-01-27 11:43:54 - REX - INFO - COMMAND: unknown: we live within a logic
+2026-01-27 11:43:54 - REX - INFO - COMMAND: unknown: there will be there are the other
+2026-01-27 11:43:54 - REX - INFO - COMMAND: unknown: there will be there are the other
+2026-01-27 11:43:56 - REX - INFO - COMMAND: unknown: have a barrel of the hold up under the hook up in the remember listening to up
+2026-01-27 11:43:56 - REX - INFO - COMMAND: unknown: have a barrel of the hold up under the hook up in the remember listening to up
+2026-01-27 11:43:57 - REX - INFO - COMMAND: unknown: what they were of the name of the hear that annoyed when beginning of other remember that
+2026-01-27 11:43:57 - REX - INFO - COMMAND: unknown: what they were of the name of the hear that annoyed when beginning of other remember that
+2026-01-27 11:43:58 - REX - INFO - COMMAND: unknown: there were a given
+2026-01-27 11:43:58 - REX - INFO - COMMAND: unknown: there were a given
+2026-01-27 11:51:11 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:51:11 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 11:51:12 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:51:12 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 11:51:33 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:51:33 - REX - INFO - AUTH: User admin logged in
+2026-01-27 11:51:39 - REX - INFO - SYSTEM: REX activated
+2026-01-27 11:51:39 - REX - INFO - SYSTEM: REX activated
+2026-01-27 11:51:43 - REX - INFO - COMMAND: open_app: open logs
+2026-01-27 11:51:43 - REX - INFO - COMMAND: open_app: open logs
+2026-01-27 11:51:59 - REX - INFO - COMMAND: unknown: hello looks
+2026-01-27 11:51:59 - REX - INFO - COMMAND: unknown: hello looks
+2026-01-27 11:52:03 - REX - INFO - COMMAND: unknown: who knows
+2026-01-27 11:52:03 - REX - INFO - COMMAND: unknown: who knows
+2026-01-27 11:52:09 - REX - INFO - COMMAND: unknown: glows logs
+2026-01-27 11:52:09 - REX - INFO - COMMAND: unknown: glows logs
+2026-01-27 11:52:16 - REX - INFO - COMMAND: unknown: who knows
+2026-01-27 11:52:16 - REX - INFO - COMMAND: unknown: who knows
+2026-01-27 11:52:19 - REX - INFO - COMMAND: unknown: it's
+2026-01-27 11:52:19 - REX - INFO - COMMAND: unknown: it's
+2026-01-27 11:52:24 - REX - INFO - COMMAND: unknown: rex
+2026-01-27 11:52:24 - REX - INFO - COMMAND: unknown: rex
+2026-01-27 11:52:29 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:52:29 - REX - INFO - COMMAND: unknown: huh
+2026-01-27 11:52:34 - REX - INFO - COMMAND: unknown: one of the
+2026-01-27 11:52:34 - REX - INFO - COMMAND: unknown: one of the
+2026-01-27 11:52:50 - REX - INFO - COMMAND: unknown: who put settings
+2026-01-27 11:52:50 - REX - INFO - COMMAND: unknown: who put settings
+2026-01-27 11:52:55 - REX - INFO - SYSTEM: REX deactivated
+2026-01-27 11:52:55 - REX - INFO - SYSTEM: REX deactivated
+2026-01-27 12:28:55 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 12:28:55 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 12:28:56 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 12:28:56 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 12:29:05 - REX - INFO - AUTH: User admin logged in
+2026-01-27 12:29:05 - REX - INFO - AUTH: User admin logged in
+2026-01-27 12:30:02 - REX - INFO - SYSTEM: REX 3.0 shutdown complete
+2026-01-27 12:30:02 - REX - INFO - SYSTEM: REX 3.0 shutdown complete
+2026-01-27 13:32:59 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 13:32:59 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 13:32:59 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 13:32:59 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 13:33:11 - REX - INFO - AUTH: User admin logged in
+2026-01-27 13:33:11 - REX - INFO - AUTH: User admin logged in
+2026-01-27 13:33:16 - REX - INFO - SYSTEM: REX activated
+2026-01-27 13:33:16 - REX - INFO - SYSTEM: REX activated
+2026-01-27 13:33:24 - REX - INFO - COMMAND: unknown: hope or notepad
+2026-01-27 13:33:24 - REX - INFO - COMMAND: unknown: hope or notepad
+2026-01-27 13:33:34 - REX - INFO - COMMAND: unknown: who would notepad
+2026-01-27 13:33:34 - REX - INFO - COMMAND: unknown: who would notepad
+2026-01-27 13:33:54 - REX - INFO - COMMAND: open_app: helix open opener bed
+2026-01-27 13:33:54 - REX - INFO - COMMAND: open_app: helix open opener bed
+2026-01-27 13:34:03 - REX - INFO - COMMAND: open_app: what better open
+2026-01-27 13:34:03 - REX - INFO - COMMAND: open_app: what better open
+2026-01-27 13:34:08 - REX - INFO - COMMAND: unknown: what about
+2026-01-27 13:34:08 - REX - INFO - COMMAND: unknown: what about
+2026-01-27 13:34:12 - REX - INFO - COMMAND: unknown: what
+2026-01-27 13:34:12 - REX - INFO - COMMAND: unknown: what
+2026-01-27 13:34:15 - REX - INFO - COMMAND: unknown: notepad
+2026-01-27 13:34:15 - REX - INFO - COMMAND: unknown: notepad
+2026-01-27 13:34:21 - REX - INFO - COMMAND: open_app: notepad open
+2026-01-27 13:34:21 - REX - INFO - COMMAND: open_app: notepad open
+2026-01-27 13:34:27 - REX - INFO - COMMAND: unknown: who's notepad
+2026-01-27 13:34:27 - REX - INFO - COMMAND: unknown: who's notepad
+2026-01-27 13:34:33 - REX - INFO - COMMAND: unknown: nor bad blues
+2026-01-27 13:34:33 - REX - INFO - COMMAND: unknown: nor bad blues
+2026-01-27 13:34:54 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 13:34:54 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-27 13:34:54 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 13:34:54 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-27 13:35:04 - REX - INFO - AUTH: User admin logged in
+2026-01-27 13:35:04 - REX - INFO - AUTH: User admin logged in
+2026-01-27 13:35:13 - REX - INFO - SYSTEM: REX activated
+2026-01-27 13:35:13 - REX - INFO - SYSTEM: REX activated
+2026-01-27 13:35:16 - REX - INFO - COMMAND: close_app: exit
+2026-01-27 13:35:16 - REX - INFO - COMMAND: close_app: exit
+2026-01-27 13:35:24 - REX - INFO - COMMAND: unknown: hastings
+2026-01-27 13:35:24 - REX - INFO - COMMAND: unknown: hastings
+2026-01-27 13:35:28 - REX - INFO - COMMAND: unknown: thirteenth
+2026-01-27 13:35:28 - REX - INFO - COMMAND: unknown: thirteenth
+2026-01-27 13:35:32 - REX - INFO - COMMAND: unknown: lose sitting
+2026-01-27 13:35:32 - REX - INFO - COMMAND: unknown: lose sitting
+2026-01-27 13:35:38 - REX - INFO - COMMAND: unknown: lose settings
+2026-01-27 13:35:38 - REX - INFO - COMMAND: unknown: lose settings
+2026-01-27 13:35:43 - REX - INFO - COMMAND: unknown: use sitting
+2026-01-27 13:35:43 - REX - INFO - COMMAND: unknown: use sitting
+2026-01-27 13:35:47 - REX - INFO - COMMAND: unknown: setting lose
+2026-01-27 13:35:47 - REX - INFO - COMMAND: unknown: setting lose
+2026-01-27 13:35:54 - REX - INFO - COMMAND: unknown: eggs so dumb
+2026-01-27 13:35:54 - REX - INFO - COMMAND: unknown: eggs so dumb
+2026-01-27 13:35:59 - REX - INFO - COMMAND: unknown: he said don't
+2026-01-27 13:35:59 - REX - INFO - COMMAND: unknown: he said don't
+2026-01-27 13:36:03 - REX - INFO - COMMAND: unknown: shut down
+2026-01-27 13:36:03 - REX - INFO - COMMAND: unknown: shut down
+2026-01-27 13:36:09 - REX - INFO - COMMAND: unknown: so don't
+2026-01-27 13:36:09 - REX - INFO - COMMAND: unknown: so don't
+2026-01-28 12:43:58 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-28 12:43:58 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-28 12:43:59 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-28 12:43:59 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-28 12:44:05 - REX - INFO - AUTH: User admin logged in
+2026-01-28 12:44:05 - REX - INFO - AUTH: User admin logged in
+2026-01-28 12:44:17 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-28 12:44:17 - REX - INFO - SYSTEM: REX 3.0 initialization started
+2026-01-28 12:44:18 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-28 12:44:18 - REX - INFO - SYSTEM: REX 3.0 initialization complete
+2026-01-28 12:44:23 - REX - INFO - AUTH: User admin logged in
+2026-01-28 12:44:23 - REX - INFO - AUTH: User admin logged in

@@ -1,0 +1,136 @@
+[11:25:01] SYSTEM: REX 3.0 initialization started
+[11:25:02] SYSTEM: REX 3.0 initialization complete
+[11:25:10] AUTH: User admin logged in
+[11:25:39] SYSTEM: REX activated
+[11:25:44] COMMAND: unknown: he loves
+[11:25:52] COMMAND: unknown: hope
+[11:25:57] COMMAND: unknown: rex who
+[11:26:03] COMMAND: greeting: hey
+[11:26:09] COMMAND: unknown: rex
+[11:26:18] COMMAND: unknown: who
+[11:26:22] COMMAND: unknown: who can logs
+[11:26:43] COMMAND: unknown: huh
+[11:27:03] COMMAND: unknown: huh
+[11:27:12] COMMAND: unknown: when
+[11:27:43] COMMAND: unknown: huh
+[11:28:00] COMMAND: unknown: huh
+[11:28:26] COMMAND: unknown: huh
+[11:28:51] COMMAND: unknown: huh
+[11:29:11] COMMAND: unknown: huh
+[11:29:32] COMMAND: unknown: huh
+[11:31:17] COMMAND: web_search: google
+[11:31:19] COMMAND: unknown: would
+[11:31:29] COMMAND: unknown: going
+[11:31:31] COMMAND: unknown: only school
+[11:31:36] COMMAND: unknown: even had a lovely
+[11:31:38] COMMAND: unknown: the
+[11:31:40] COMMAND: unknown: graham
+[11:31:46] COMMAND: unknown: so i had to have to go
+[11:31:48] COMMAND: unknown: what available to them
+[11:31:53] COMMAND: unknown: the
+[11:32:10] COMMAND: unknown: who but don't deliver
+[11:32:13] COMMAND: unknown: so does gordon but it was earlier
+[11:32:16] COMMAND: unknown: so does couldn't live with it
+[11:32:31] COMMAND: date_query: today
+[11:32:51] COMMAND: unknown: huh
+[11:33:04] COMMAND: unknown: huh
+[11:33:13] COMMAND: unknown: double the with a lot of
+[11:33:36] COMMAND: greeting: hello college
+[11:33:56] COMMAND: unknown: huh
+[11:34:16] COMMAND: unknown: huh
+[11:34:22] COMMAND: unknown: hooker
+[11:34:49] COMMAND: unknown: huh
+[11:34:58] COMMAND: unknown: huh
+[11:35:03] COMMAND: unknown: the
+[11:35:23] COMMAND: unknown: huh
+[11:35:49] COMMAND: unknown: huh
+[11:35:55] COMMAND: unknown: huh
+[11:36:15] COMMAND: unknown: huh
+[11:36:21] COMMAND: unknown: what the
+[11:36:29] COMMAND: unknown: who doesn't monopolistic
+[11:36:34] COMMAND: unknown: go
+[11:36:39] COMMAND: greeting: hello
+[11:36:59] COMMAND: unknown: huh
+[11:37:03] SYSTEM: REX 3.0 initialization started
+[11:37:03] SYSTEM: REX 3.0 initialization complete
+[11:37:10] AUTH: User admin logged in
+[11:39:03] SYSTEM: REX 3.0 initialization started
+[11:39:04] SYSTEM: REX 3.0 initialization complete
+[11:39:11] AUTH: User admin logged in
+[11:39:17] SYSTEM: REX activated
+[11:39:22] COMMAND: unknown: hope and logs
+[11:39:32] COMMAND: help: help
+[11:39:52] COMMAND: unknown: huh
+[11:40:12] COMMAND: unknown: huh
+[11:40:21] COMMAND: greeting: hello
+[11:40:34] COMMAND: unknown: the demon
+[11:40:44] COMMAND: unknown: the local papers
+[11:41:01] COMMAND: unknown: huh
+[11:41:07] COMMAND: unknown: what are they should
+[11:41:27] COMMAND: unknown: huh
+[11:41:31] COMMAND: unknown: let's get it it
+[11:41:34] COMMAND: unknown: wonder what i live of the know lots of the world
+[11:41:38] COMMAND: unknown: what are them
+[11:41:45] COMMAND: unknown: when there's only one last alone
+[11:41:48] COMMAND: unknown: we love of them away
+[11:41:53] COMMAND: unknown: really
+[11:42:04] COMMAND: unknown: knows
+[11:42:11] COMMAND: unknown: we're going got them get it alone
+[11:42:16] COMMAND: unknown: he's an older than me that i think of it
+[11:42:19] COMMAND: unknown: but they were the logarithm of leader
+[11:43:51] COMMAND: open_app: the by moving give others will start chrome within the limits
+[11:43:52] COMMAND: unknown: his bucks government in brooklyn
+[11:43:53] COMMAND: unknown: where you have a brilliant
+[11:43:54] COMMAND: unknown: we live within a logic
+[11:43:54] COMMAND: unknown: there will be there are the other
+[11:43:56] COMMAND: unknown: have a barrel of the hold up under the hook up in the remember listening to up
+[11:43:57] COMMAND: unknown: what they were of the name of the hear that annoyed when beginning of other remember that
+[11:43:58] COMMAND: unknown: there were a given
+[11:51:11] SYSTEM: REX 3.0 initialization started
+[11:51:12] SYSTEM: REX 3.0 initialization complete
+[11:51:33] AUTH: User admin logged in
+[11:51:39] SYSTEM: REX activated
+[11:51:43] COMMAND: open_app: open logs
+[11:51:59] COMMAND: unknown: hello looks
+[11:52:03] COMMAND: unknown: who knows
+[11:52:09] COMMAND: unknown: glows logs
+[11:52:16] COMMAND: unknown: who knows
+[11:52:19] COMMAND: unknown: it's
+[11:52:24] COMMAND: unknown: rex
+[11:52:29] COMMAND: unknown: huh
+[11:52:34] COMMAND: unknown: one of the
+[11:52:50] COMMAND: unknown: who put settings
+[11:52:55] SYSTEM: REX deactivated
+[12:28:55] SYSTEM: REX 3.0 initialization started
+[12:28:56] SYSTEM: REX 3.0 initialization complete
+[12:29:05] AUTH: User admin logged in
+[12:30:02] SYSTEM: REX 3.0 shutdown complete
+[13:32:59] SYSTEM: REX 3.0 initialization started
+[13:32:59] SYSTEM: REX 3.0 initialization complete
+[13:33:11] AUTH: User admin logged in
+[13:33:16] SYSTEM: REX activated
+[13:33:24] COMMAND: unknown: hope or notepad
+[13:33:34] COMMAND: unknown: who would notepad
+[13:33:54] COMMAND: open_app: helix open opener bed
+[13:34:03] COMMAND: open_app: what better open
+[13:34:08] COMMAND: unknown: what about
+[13:34:12] COMMAND: unknown: what
+[13:34:15] COMMAND: unknown: notepad
+[13:34:21] COMMAND: open_app: notepad open
+[13:34:27] COMMAND: unknown: who's notepad
+[13:34:33] COMMAND: unknown: nor bad blues
+[13:34:54] SYSTEM: REX 3.0 initialization started
+[13:34:54] SYSTEM: REX 3.0 initialization complete
+[13:35:04] AUTH: User admin logged in
+[13:35:13] SYSTEM: REX activated
+[13:35:16] COMMAND: close_app: exit
+[13:35:24] COMMAND: unknown: hastings
+[13:35:28] COMMAND: unknown: thirteenth
+[13:35:32] COMMAND: unknown: lose sitting
+[13:35:38] COMMAND: unknown: lose settings
+[13:35:43] COMMAND: unknown: use sitting
+[13:35:47] COMMAND: unknown: setting lose
+[13:35:54] COMMAND: unknown: eggs so dumb
+[13:35:59] COMMAND: unknown: he said don't
+[13:36:03] COMMAND: unknown: shut down
+[13:36:09] COMMAND: unknown: so don't
