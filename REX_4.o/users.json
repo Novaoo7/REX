@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password_hash": "405a25d74fc5638b78efa77e10890545f58992e4869cfa95e586b0ae7fcdde7c",
+      "salt": "31c130caef0087775e62698e44196b0b67e2a855d32321fa8ec1824a7ab63235",
+      "role": "admin",
+      "created_at": "2026-02-06T10:25:32.699825",
+      "last_login": "2026-02-22T11:42:54.600639",
+      "password_changed_at": "2026-02-06T10:25:32.699825",
+      "failed_attempts": 0,
+      "locked_until": null
+    }
+  ]
+}

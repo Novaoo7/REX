@@ -1,0 +1,85 @@
+{
+  "version": "4.0.0",
+  "created_at": "2026-02-06T10:25:32.612010",
+  "last_modified": "2026-02-06T10:25:32.612010",
+  "audio": {
+    "sample_rate": 16000,
+    "block_size": 8000,
+    "channels": 1,
+    "device_index": null,
+    "noise_reduction": true,
+    "auto_gain_control": true
+  },
+  "speech": {
+    "rate": 170,
+    "volume": 1.0,
+    "voice_id": null,
+    "pitch": 100
+  },
+  "recognition": {
+    "model_path": "model",
+    "confidence_threshold": 0.6,
+    "energy_threshold": 300,
+    "pause_threshold": 0.8,
+    "phrase_timeout": 3.0,
+    "calibration_duration": 1.0
+  },
+  "security": {
+    "max_login_attempts": 5,
+    "lockout_duration_seconds": 600,
+    "session_timeout_seconds": 3600,
+    "password_min_length": 8,
+    "password_require_upper": true,
+    "password_require_lower": true,
+    "password_require_digit": true,
+    "password_require_special": true,
+    "password_expiry_days": 90,
+    "require_auth_for_sensitive": true
+  },
+  "performance": {
+    "max_file_search_depth": 4,
+    "max_search_results": 15,
+    "cache_ttl_seconds": 300,
+    "thread_pool_size": 4,
+    "max_memory_mb": 500,
+    "command_history_size": 200
+  },
+  "paths": {
+    "logs_dir": "logs",
+    "memory_dir": "memory",
+    "cache_dir": "cache",
+    "backup_dir": "backups",
+    "config_file": "config.json",
+    "users_file": "users.json"
+  },
+  "features": {
+    "proactive_suggestions": true,
+    "context_memory": true,
+    "routines": true,
+    "advanced_features": true,
+    "learning": true,
+    "voice_feedback": true
+  },
+  "ui": {
+    "verbosity": "normal",
+    "show_confidence": true,
+    "show_intent": true,
+    "show_timestamps": true,
+    "color_output": true
+  },
+  "wake_words": {
+    "primary": "rex",
+    "alternatives": [
+      "hey rex",
+      "ok rex",
+      "wake up"
+    ],
+    "sleep_words": [
+      "sleep",
+      "go to sleep",
+      "rest",
+      "goodbye"
+    ],
+    "sensitivity": 0.5
+  }
+}

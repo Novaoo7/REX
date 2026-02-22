@@ -1,0 +1,441 @@
+{"timestamp": "2026-02-06T10:25:32.613008", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-06T10:25:32.702828", "level": "INFO", "category": "auth", "message": "Default admin account created \u2013 change password immediately"}
+{"timestamp": "2026-02-06T10:25:47.062951", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "admin", "reason": "bad_password", "attempts": 1}}
+{"timestamp": "2026-02-06T10:27:51.593472", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "admin", "reason": "bad_password", "attempts": 2}}
+{"timestamp": "2026-02-06T10:28:03.220436", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "admin", "reason": "bad_password", "attempts": 3}}
+{"timestamp": "2026-02-06T10:30:23.375774", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-06T10:30:36.131161", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-06T14:51:20.561935", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-06T14:51:30.379718", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-06T14:54:10.466166", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-06T14:54:20.332428", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-06T14:54:23.510395", "level": "INFO", "category": "audio", "message": "Calibrated: noise=1226.4  threshold=3066.0"}
+{"timestamp": "2026-02-06T14:54:23.515212", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-06T14:55:28.539588", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-06T14:55:32.240201", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 0, "successful": 0, "failed": 0, "avg_duration": 0.0, "by_intent": {}}}
+{"timestamp": "2026-02-06T15:03:21.134093", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-06T15:03:31.223785", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-06T15:03:34.417499", "level": "INFO", "category": "audio", "message": "Calibrated: noise=646.0  threshold=1615.0"}
+{"timestamp": "2026-02-06T15:03:34.420501", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-06T15:03:49.306377", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-06T15:04:08.608189", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.30)"}
+{"timestamp": "2026-02-06T15:04:08.608189", "level": "INFO", "category": "command", "message": "app_open \u2192 FAIL", "extra": {"duration_sec": 0.0, "error": "Which application would you like me to open?"}}
+{"timestamp": "2026-02-06T15:04:24.680642", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-06T15:04:41.160095", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-06T15:08:08.237520", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-06T15:10:37.227175", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-06T15:10:45.651481", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-06T15:10:46.579576", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-06T15:10:53.297605", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 1, "successful": 0, "failed": 1, "avg_duration": 0.0, "by_intent": {"app_open": 1}}}
+{"timestamp": "2026-02-06T15:20:20.280907", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-06T15:20:29.306967", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-06T15:20:32.571744", "level": "INFO", "category": "audio", "message": "Calibrated: noise=1111.6  threshold=2778.9"}
+{"timestamp": "2026-02-06T15:20:32.710740", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-06T15:21:19.727276", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-06T15:21:23.426786", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 1, "successful": 0, "failed": 1, "avg_duration": 0.0, "by_intent": {"app_open": 1}}}
+{"timestamp": "2026-02-06T15:22:15.615695", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-06T15:22:49.336643", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-06T15:22:52.560342", "level": "INFO", "category": "audio", "message": "Calibrated: noise=920.8  threshold=2301.9"}
+{"timestamp": "2026-02-06T15:22:52.653787", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-06T15:23:43.670937", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-06T15:23:47.367385", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 1, "successful": 0, "failed": 1, "avg_duration": 0.0, "by_intent": {"app_open": 1}}}
+{"timestamp": "2026-02-16T20:03:05.875434", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-16T20:03:15.897672", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "admin", "reason": "bad_password", "attempts": 1}}
+{"timestamp": "2026-02-16T20:03:38.921171", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "admin", "reason": "bad_password", "attempts": 2}}
+{"timestamp": "2026-02-16T20:03:50.462783", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "asmin", "reason": "user_not_found"}}
+{"timestamp": "2026-02-16T20:04:38.600408", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-16T20:04:47.621395", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "admin", "reason": "bad_password", "attempts": 3}}
+{"timestamp": "2026-02-17T10:08:25.976421", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-17T10:08:36.129023", "level": "INFO", "category": "security", "message": "login_failed", "extra": {"username": "admin", "reason": "bad_password", "attempts": 4}}
+{"timestamp": "2026-02-17T10:21:36.657723", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-17T10:21:36.709995", "level": "WARNING", "category": "system", "message": "Google listener not available: No module named 'core.listener_google'. Install: pip install SpeechRecognition pyaudio"}
+{"timestamp": "2026-02-17T10:21:36.712280", "level": "ERROR", "category": "audio", "message": "Vosk model load failed: 'function' object has no attribute 'encode'"}
+{"timestamp": "2026-02-17T10:21:36.712280", "level": "ERROR", "category": "error", "message": "Vosk listener failed: Cannot load Vosk model at '<bound method SpeechEngine.is_speaking of <core.speech.SpeechEngine object at 0x0000019E59274210>>': 'function' object has no attribute 'encode'"}
+{"timestamp": "2026-02-17T11:28:44.992496", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-17T11:28:52.983756", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-17T11:28:52.984886", "level": "WARNING", "category": "system", "message": "Google listener not available: No module named 'core.listener_google'. Install: pip install SpeechRecognition pyaudio"}
+{"timestamp": "2026-02-17T11:28:53.674466", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-17T11:28:53.717178", "level": "INFO", "category": "system", "message": "HybridVoiceListener initialized (mode: vosk)"}
+{"timestamp": "2026-02-17T11:28:53.717178", "level": "INFO", "category": "audio", "message": "Calibrating (vosk mode)..."}
+{"timestamp": "2026-02-17T11:29:10.964583", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-17T11:29:18.854042", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-17T11:29:18.855682", "level": "WARNING", "category": "system", "message": "Google listener not available: No module named 'core.listener_google'. Install: pip install SpeechRecognition pyaudio"}
+{"timestamp": "2026-02-17T11:29:19.369840", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-17T11:29:19.400068", "level": "INFO", "category": "system", "message": "HybridVoiceListener initialized (mode: vosk)"}
+{"timestamp": "2026-02-17T11:29:19.400068", "level": "INFO", "category": "audio", "message": "Calibrating (vosk mode)..."}
+{"timestamp": "2026-02-17T11:29:21.584228", "level": "INFO", "category": "audio", "message": "Calibrated: noise=273.1  threshold=682.8"}
+{"timestamp": "2026-02-17T11:29:21.584228", "level": "INFO", "category": "audio", "message": "Calibration complete (vosk)"}
+{"timestamp": "2026-02-17T11:29:21.668933", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-17T11:29:44.838279", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T11:29:53.807566", "level": "INFO", "category": "intent", "message": "Recognised: 'for is open warfare' (conf=0.60)"}
+{"timestamp": "2026-02-17T11:29:53.817082", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-17T11:29:53.991036", "level": "INFO", "category": "command", "message": "app_open \u2192 FAIL", "extra": {"duration_sec": 0.174, "error": "I couldn't find 'warfare'. Make sure it is installed."}}
+{"timestamp": "2026-02-17T11:30:22.285519", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T11:30:31.288444", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:11:26.831321", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-17T20:15:04.585578", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-17T20:15:20.957213", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-17T20:15:20.962541", "level": "WARNING", "category": "system", "message": "Google listener not available: No module named 'core.listener_google'. Install: pip install SpeechRecognition pyaudio"}
+{"timestamp": "2026-02-17T20:15:21.570812", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-17T20:15:21.678652", "level": "INFO", "category": "system", "message": "HybridVoiceListener initialized (mode: vosk)"}
+{"timestamp": "2026-02-17T20:15:21.678652", "level": "INFO", "category": "audio", "message": "Calibrating (vosk mode)..."}
+{"timestamp": "2026-02-17T20:15:23.836766", "level": "INFO", "category": "audio", "message": "Calibrated: noise=105.7  threshold=264.1"}
+{"timestamp": "2026-02-17T20:15:23.836766", "level": "INFO", "category": "audio", "message": "Calibration complete (vosk)"}
+{"timestamp": "2026-02-17T20:15:23.924461", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-17T20:15:36.545077", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:15:50.022059", "level": "INFO", "category": "intent", "message": "Classified: time_query (conf=0.85)"}
+{"timestamp": "2026-02-17T20:15:50.022059", "level": "INFO", "category": "command", "message": "time_query \u2192 OK", "extra": {"duration_sec": 0.0, "error": null}}
+{"timestamp": "2026-02-17T20:16:01.689697", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:16:16.169569", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:16:24.574540", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:16:32.591541", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:24:18.717785", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-17T20:24:28.241799", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-17T20:24:28.286453", "level": "WARNING", "category": "system", "message": "Google not available \u2013 Vosk only"}
+{"timestamp": "2026-02-17T20:24:28.803347", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-17T20:24:28.920304", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: vosk)"}
+{"timestamp": "2026-02-17T20:24:28.920304", "level": "INFO", "category": "audio", "message": "Calibrating (vosk mode)..."}
+{"timestamp": "2026-02-17T20:24:31.043115", "level": "INFO", "category": "audio", "message": "Calibrated: noise=136.6 threshold=245.8"}
+{"timestamp": "2026-02-17T20:24:31.090748", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-17T20:24:42.716367", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:24:55.787952", "level": "INFO", "category": "intent", "message": "Classified: time_query (conf=0.30)"}
+{"timestamp": "2026-02-17T20:24:55.787952", "level": "INFO", "category": "command", "message": "time_query \u2192 OK", "extra": {"duration_sec": 0.0, "error": null}}
+{"timestamp": "2026-02-17T20:25:06.201930", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.30)"}
+{"timestamp": "2026-02-17T20:25:06.201930", "level": "INFO", "category": "command", "message": "app_open \u2192 FAIL", "extra": {"duration_sec": 0.0, "error": "Which application would you like me to open?"}}
+{"timestamp": "2026-02-17T20:25:26.195542", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-17T20:25:26.203987", "level": "INFO", "category": "command", "message": "Opened app: notepad \u2192 notepad"}
+{"timestamp": "2026-02-17T20:25:26.203987", "level": "INFO", "category": "command", "message": "app_open \u2192 OK", "extra": {"duration_sec": 0.008, "error": null}}
+{"timestamp": "2026-02-17T20:25:43.248164", "level": "INFO", "category": "intent", "message": "Classified: app_close (conf=0.85)"}
+{"timestamp": "2026-02-17T20:25:43.388972", "level": "INFO", "category": "command", "message": "Closed app: notepad"}
+{"timestamp": "2026-02-17T20:25:43.388972", "level": "INFO", "category": "command", "message": "app_close \u2192 OK", "extra": {"duration_sec": 0.141, "error": null}}
+{"timestamp": "2026-02-17T20:25:49.194663", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:26:03.264694", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-17T20:26:03.319000", "level": "INFO", "category": "command", "message": "app_open \u2192 FAIL", "extra": {"duration_sec": 0.054, "error": "I couldn't find 'logs'. Make sure it is installed."}}
+{"timestamp": "2026-02-17T20:26:20.242251", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:26:28.734065", "level": "INFO", "category": "intent", "message": "Classified: system_shutdown (conf=0.85)"}
+{"timestamp": "2026-02-17T20:26:28.734065", "level": "INFO", "category": "command", "message": "system_shutdown \u2192 OK", "extra": {"duration_sec": 0.0, "error": null}}
+{"timestamp": "2026-02-17T20:26:33.249955", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-17T20:26:36.666530", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-17T20:26:36.712505", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:0 Vosk:9 Errors:0"}
+{"timestamp": "2026-02-17T20:35:15.176898", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-17T20:35:24.911255", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-17T20:35:24.921153", "level": "WARNING", "category": "system", "message": "Google not available \u2013 Vosk only"}
+{"timestamp": "2026-02-17T20:35:25.450437", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-17T20:35:25.632202", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: vosk)"}
+{"timestamp": "2026-02-17T20:35:25.632202", "level": "INFO", "category": "audio", "message": "Calibrating (vosk mode)..."}
+{"timestamp": "2026-02-17T20:35:27.751709", "level": "INFO", "category": "audio", "message": "Calibrated: noise=169.5 threshold=305.1"}
+{"timestamp": "2026-02-17T20:35:27.800117", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-17T20:35:44.871806", "level": "INFO", "category": "intent", "message": "Recognised: 'the next' (conf=0.56)"}
+{"timestamp": "2026-02-17T20:35:44.877185", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:35:54.829262", "level": "INFO", "category": "intent", "message": "Recognised: 'the next exit' (conf=1.00)"}
+{"timestamp": "2026-02-17T20:35:54.832665", "level": "INFO", "category": "intent", "message": "Classified: app_close (conf=0.30)"}
+{"timestamp": "2026-02-17T20:35:54.832665", "level": "INFO", "category": "command", "message": "app_close \u2192 FAIL", "extra": {"duration_sec": 0.0, "error": "Which application would you like me to close?"}}
+{"timestamp": "2026-02-17T20:36:01.735107", "level": "INFO", "category": "intent", "message": "Recognised: 'no' (conf=1.00)"}
+{"timestamp": "2026-02-17T20:36:01.735107", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-17T20:36:09.293630", "level": "INFO", "category": "intent", "message": "Recognised: 'next exit' (conf=0.79)"}
+{"timestamp": "2026-02-17T20:36:09.296767", "level": "INFO", "category": "intent", "message": "Classified: app_close (conf=0.30)"}
+{"timestamp": "2026-02-17T20:36:09.296767", "level": "INFO", "category": "command", "message": "app_close \u2192 FAIL", "extra": {"duration_sec": 0.0, "error": "Which application would you like me to close?"}}
+{"timestamp": "2026-02-17T20:36:16.788037", "level": "INFO", "category": "intent", "message": "Recognised: 'exit the next' (conf=0.89)"}
+{"timestamp": "2026-02-17T20:36:16.788037", "level": "INFO", "category": "intent", "message": "Classified: app_close (conf=0.85)"}
+{"timestamp": "2026-02-17T20:36:16.921249", "level": "INFO", "category": "command", "message": "Closed app: next"}
+{"timestamp": "2026-02-17T20:36:16.921249", "level": "INFO", "category": "command", "message": "app_close \u2192 OK", "extra": {"duration_sec": 0.133, "error": null}}
+{"timestamp": "2026-02-18T12:17:57.149857", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-18T12:18:23.144672", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-18T12:18:23.230932", "level": "WARNING", "category": "system", "message": "Google not available \u2013 Vosk only"}
+{"timestamp": "2026-02-18T12:18:24.393285", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-18T12:18:24.489010", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: vosk)"}
+{"timestamp": "2026-02-18T12:18:24.489010", "level": "INFO", "category": "audio", "message": "Calibrating (vosk mode)..."}
+{"timestamp": "2026-02-18T12:18:26.753523", "level": "INFO", "category": "audio", "message": "Calibrated: noise=292.8 threshold=527.0"}
+{"timestamp": "2026-02-18T12:18:26.969716", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-18T12:18:44.864764", "level": "INFO", "category": "intent", "message": "Recognised: 'zero' (conf=0.67)"}
+{"timestamp": "2026-02-18T12:18:44.879687", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-18T12:18:45.037745", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-18T12:18:50.060051", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-18T12:18:50.335941", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:0 Vosk:1 Errors:0"}
+{"timestamp": "2026-02-18T12:18:52.571533", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 12, "successful": 6, "failed": 6, "avg_duration": 0.043, "by_intent": {"app_open": 5, "time_query": 2, "app_close": 4, "system_shutdown": 1}}}
+{"timestamp": "2026-02-18T12:25:34.315306", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-18T12:25:43.845159", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-18T12:25:43.879958", "level": "WARNING", "category": "system", "message": "Google not available \u2013 Vosk only"}
+{"timestamp": "2026-02-18T12:25:44.831909", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-18T12:25:44.985607", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: vosk)"}
+{"timestamp": "2026-02-18T12:25:44.985607", "level": "INFO", "category": "audio", "message": "Calibrating (vosk mode)..."}
+{"timestamp": "2026-02-18T12:25:47.187680", "level": "INFO", "category": "audio", "message": "Calibrated: noise=119.3 threshold=214.7"}
+{"timestamp": "2026-02-18T12:25:47.277230", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-18T12:25:58.295435", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-18T12:26:01.713253", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-18T12:26:01.990127", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:0 Vosk:0 Errors:0"}
+{"timestamp": "2026-02-18T12:26:01.993243", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 12, "successful": 6, "failed": 6, "avg_duration": 0.043, "by_intent": {"app_open": 5, "time_query": 2, "app_close": 4, "system_shutdown": 1}}}
+{"timestamp": "2026-02-18T12:29:02.851523", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-18T12:29:12.029084", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-18T12:29:12.672004", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-18T12:29:12.672004", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-18T12:29:13.666557", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-18T12:29:13.889057", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-18T12:29:13.891283", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-18T12:29:13.891283", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-18T12:29:16.111494", "level": "INFO", "category": "audio", "message": "Calibration complete"}
+{"timestamp": "2026-02-18T12:29:18.329953", "level": "INFO", "category": "audio", "message": "Calibrated: noise=580.5 threshold=1045.0"}
+{"timestamp": "2026-02-18T12:29:18.399554", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-18T12:29:28.102724", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:29:34.153579", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:29:40.904639", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:29:46.840208", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:29:47.423513", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-18T12:29:50.995362", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-18T12:29:50.995362", "level": "INFO", "category": "system", "message": "GoogleVoiceListener shutdown"}
+{"timestamp": "2026-02-18T12:29:51.349041", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:0 Vosk:0 Errors:0"}
+{"timestamp": "2026-02-18T12:29:51.354146", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 12, "successful": 6, "failed": 6, "avg_duration": 0.043, "by_intent": {"app_open": 5, "time_query": 2, "app_close": 4, "system_shutdown": 1}}}
+{"timestamp": "2026-02-18T12:30:08.266985", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-18T12:30:27.920117", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-18T12:30:28.497043", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-18T12:30:28.517119", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-18T12:30:29.437698", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-18T12:30:29.663787", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-18T12:30:29.663787", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-18T12:30:29.663787", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-18T12:30:31.907838", "level": "INFO", "category": "audio", "message": "Calibration complete"}
+{"timestamp": "2026-02-18T12:30:34.105883", "level": "INFO", "category": "audio", "message": "Calibrated: noise=779.7 threshold=1403.5"}
+{"timestamp": "2026-02-18T12:30:34.182153", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-18T12:30:53.831034", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:30:58.630082", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:31:03.435812", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:31:20.638042", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-18T12:31:21.227843", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-18T12:31:24.851296", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-18T12:31:24.851296", "level": "INFO", "category": "system", "message": "GoogleVoiceListener shutdown"}
+{"timestamp": "2026-02-18T12:31:24.851296", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:0 Vosk:0 Errors:0"}
+{"timestamp": "2026-02-18T12:31:24.851296", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 12, "successful": 6, "failed": 6, "avg_duration": 0.043, "by_intent": {"app_open": 5, "time_query": 2, "app_close": 4, "system_shutdown": 1}}}
+{"timestamp": "2026-02-22T10:58:27.761106", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-22T10:58:40.789616", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-22T10:58:41.894697", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-22T10:58:41.915426", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-22T10:58:43.106417", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-22T10:58:43.200787", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-22T10:58:43.200787", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-22T10:58:43.200787", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-22T10:58:54.362707", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-22T10:59:01.270283", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-22T10:59:01.804546", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-22T10:59:01.804546", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-22T10:59:02.791871", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-22T10:59:02.923358", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-22T10:59:02.923358", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-22T10:59:02.923358", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-22T10:59:05.293865", "level": "INFO", "category": "audio", "message": "Calibration complete"}
+{"timestamp": "2026-02-22T10:59:07.503929", "level": "INFO", "category": "audio", "message": "Calibrated: noise=50.4 threshold=90.7"}
+{"timestamp": "2026-02-22T10:59:07.663881", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-22T10:59:53.028489", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:00.207193", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:05.219375", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:10.267318", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:14.835862", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:19.418114", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:24.093872", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:28.798265", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:33.380583", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:38.062534", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:00:42.745168", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:01:00.827376", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:01:09.254078", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:01:09.786442", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-22T11:01:13.304962", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-22T11:01:13.304962", "level": "INFO", "category": "system", "message": "GoogleVoiceListener shutdown"}
+{"timestamp": "2026-02-22T11:01:13.304962", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:0 Vosk:0 Errors:0"}
+{"timestamp": "2026-02-22T11:01:13.304962", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 12, "successful": 6, "failed": 6, "avg_duration": 0.043, "by_intent": {"app_open": 5, "time_query": 2, "app_close": 4, "system_shutdown": 1}}}
+{"timestamp": "2026-02-22T11:17:37.323803", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-22T11:17:50.819942", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-22T11:17:51.415165", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-22T11:17:51.415165", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-22T11:17:52.432727", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-22T11:17:52.723605", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-22T11:17:52.726459", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-22T11:17:52.726459", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-22T11:18:03.791918", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-22T11:18:11.617200", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-22T11:18:12.189224", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-22T11:18:12.225492", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-22T11:18:13.203130", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-22T11:18:13.313177", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-22T11:18:13.313177", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-22T11:18:13.313177", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-22T11:18:15.567143", "level": "INFO", "category": "audio", "message": "Calibration complete"}
+{"timestamp": "2026-02-22T11:18:17.777270", "level": "INFO", "category": "audio", "message": "Calibrated: noise=28.0 threshold=42.0"}
+{"timestamp": "2026-02-22T11:18:17.859295", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-22T11:18:27.068486", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex open Chrome' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:18:27.091111", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-22T11:18:27.097696", "level": "INFO", "category": "command", "message": "Opened app: chrome \u2192 chrome"}
+{"timestamp": "2026-02-22T11:18:27.097696", "level": "INFO", "category": "command", "message": "app_open \u2192 OK", "extra": {"duration_sec": 0.007, "error": null}}
+{"timestamp": "2026-02-22T11:18:34.035648", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:18:39.101263", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:18:44.067342", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:18:48.685925", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:18:53.893286", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:18:54.893694", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-22T11:18:58.416226", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-22T11:18:58.416226", "level": "INFO", "category": "system", "message": "GoogleVoiceListener shutdown"}
+{"timestamp": "2026-02-22T11:18:58.416226", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:1 Vosk:0 Errors:0"}
+{"timestamp": "2026-02-22T11:18:58.416226", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 13, "successful": 7, "failed": 6, "avg_duration": 0.04, "by_intent": {"app_open": 6, "time_query": 2, "app_close": 4, "system_shutdown": 1}}}
+{"timestamp": "2026-02-22T11:19:48.421159", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-22T11:19:57.899164", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-22T11:19:58.481074", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-22T11:19:58.492750", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-22T11:19:59.487217", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-22T11:19:59.551591", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-22T11:19:59.551591", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-22T11:19:59.551591", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-22T11:20:01.782154", "level": "INFO", "category": "audio", "message": "Calibration complete"}
+{"timestamp": "2026-02-22T11:20:04.004455", "level": "INFO", "category": "audio", "message": "Calibrated: noise=57.3 threshold=85.9"}
+{"timestamp": "2026-02-22T11:20:04.093832", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-22T11:20:12.258186", "level": "INFO", "category": "audio", "message": "Recognized: 'open Notepad' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:20:12.273965", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-22T11:20:12.280501", "level": "INFO", "category": "command", "message": "Opened app: notepad \u2192 notepad"}
+{"timestamp": "2026-02-22T11:20:12.285417", "level": "INFO", "category": "command", "message": "app_open \u2192 OK", "extra": {"duration_sec": 0.011, "error": null}}
+{"timestamp": "2026-02-22T11:20:20.016964", "level": "INFO", "category": "audio", "message": "Recognized: 'get me a new window' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:20:20.032657", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:20:29.132952", "level": "INFO", "category": "audio", "message": "Recognized: 'open a new window in notepad' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:20:29.148812", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-22T11:20:29.297907", "level": "INFO", "category": "command", "message": "app_open \u2192 FAIL", "extra": {"duration_sec": 0.149, "error": "I couldn't find 'new window in notepad'. Make sure it is installed."}}
+{"timestamp": "2026-02-22T11:20:39.540868", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:20:43.988850", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:20:48.486527", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:20:54.288593", "level": "INFO", "category": "audio", "message": "Recognized: 'Re' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:20:54.295476", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:21:02.931118", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:21:07.956055", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex open document' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:21:07.959259", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-22T11:21:08.058806", "level": "INFO", "category": "command", "message": "app_open \u2192 FAIL", "extra": {"duration_sec": 0.1, "error": "I couldn't find 'document'. Make sure it is installed."}}
+{"timestamp": "2026-02-22T11:21:17.294551", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex can you search for a folder' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:21:17.308352", "level": "INFO", "category": "intent", "message": "Classified: web_search (conf=0.85)"}
+{"timestamp": "2026-02-22T11:21:17.539169", "level": "INFO", "category": "command", "message": "Web search: a folder"}
+{"timestamp": "2026-02-22T11:21:17.539169", "level": "INFO", "category": "command", "message": "web_search \u2192 OK", "extra": {"duration_sec": 0.231, "error": null}}
+{"timestamp": "2026-02-22T11:21:37.241110", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:21:42.361262", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:21:55.264045", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:22:00.070649", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:22:00.079039", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:22:10.860999", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex minimise Chrome' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:22:10.869305", "level": "INFO", "category": "intent", "message": "Classified: app_minimize (conf=0.85)"}
+{"timestamp": "2026-02-22T11:22:11.348578", "level": "INFO", "category": "command", "message": "app_minimize \u2192 OK", "extra": {"duration_sec": 0.479, "error": null}}
+{"timestamp": "2026-02-22T11:22:18.247271", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:22:22.914796", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:22:22.919452", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:22:31.672616", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:22:36.133133", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:22:41.840362", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex close notepad' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:22:41.856057", "level": "INFO", "category": "intent", "message": "Classified: app_close (conf=0.85)"}
+{"timestamp": "2026-02-22T11:22:42.210929", "level": "INFO", "category": "command", "message": "Closed app: notepad"}
+{"timestamp": "2026-02-22T11:22:42.210929", "level": "INFO", "category": "command", "message": "app_close \u2192 OK", "extra": {"duration_sec": 0.355, "error": null}}
+{"timestamp": "2026-02-22T11:22:49.079603", "level": "INFO", "category": "audio", "message": "Recognized: 'open settings' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:22:49.085634", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-22T11:22:49.091849", "level": "INFO", "category": "command", "message": "Opened app: settings \u2192 ms-settings:"}
+{"timestamp": "2026-02-22T11:22:49.093056", "level": "INFO", "category": "command", "message": "app_open \u2192 OK", "extra": {"duration_sec": 0.007, "error": null}}
+{"timestamp": "2026-02-22T11:22:55.477568", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:23:13.898823", "level": "INFO", "category": "audio", "message": "Recognized: 'go to camera' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:23:13.914503", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:23:23.297403", "level": "INFO", "category": "audio", "message": "Recognized: 'tracks' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:23:23.297403", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:23:32.023954", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:23:40.809216", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:23:45.446786", "level": "INFO", "category": "audio", "message": "Recognized: 'open memory' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:23:45.450963", "level": "INFO", "category": "intent", "message": "Classified: app_open (conf=0.85)"}
+{"timestamp": "2026-02-22T11:23:45.599257", "level": "INFO", "category": "command", "message": "app_open \u2192 FAIL", "extra": {"duration_sec": 0.148, "error": "I couldn't find 'memory'. Make sure it is installed."}}
+{"timestamp": "2026-02-22T11:23:54.550531", "level": "INFO", "category": "audio", "message": "Recognized: 'Re' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:23:54.565687", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:24:03.371670", "level": "INFO", "category": "audio", "message": "Recognized: 'search for memory' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:24:03.378176", "level": "INFO", "category": "intent", "message": "Classified: web_search (conf=0.85)"}
+{"timestamp": "2026-02-22T11:24:03.441035", "level": "INFO", "category": "command", "message": "Web search: memory"}
+{"timestamp": "2026-02-22T11:24:03.441035", "level": "INFO", "category": "command", "message": "web_search \u2192 OK", "extra": {"duration_sec": 0.063, "error": null}}
+{"timestamp": "2026-02-22T11:24:10.439980", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:14.900435", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:19.584109", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:24.348344", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:28.816762", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:33.519999", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:38.079730", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:42.667429", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:47.138058", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:54.051782", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:24:58.975057", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:25:03.270150", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:25:07.780965", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:25:14.129472", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:25:20.285041", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:25:25.598334", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:25:30.342800", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex shutdown' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:25:30.346478", "level": "INFO", "category": "intent", "message": "Classified: system_shutdown (conf=0.85)"}
+{"timestamp": "2026-02-22T11:25:30.346478", "level": "INFO", "category": "command", "message": "system_shutdown \u2192 OK", "extra": {"duration_sec": 0.0, "error": null}}
+{"timestamp": "2026-02-22T11:25:34.349285", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-22T11:25:37.865328", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-22T11:25:37.866086", "level": "INFO", "category": "system", "message": "GoogleVoiceListener shutdown"}
+{"timestamp": "2026-02-22T11:25:37.867027", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:17 Vosk:0 Errors:0"}
+{"timestamp": "2026-02-22T11:25:37.868536", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 23, "successful": 14, "failed": 9, "avg_duration": 0.09, "by_intent": {"app_open": 11, "time_query": 2, "app_close": 5, "system_shutdown": 2, "web_search": 2, "app_minimize": 1}}}
+{"timestamp": "2026-02-22T11:42:30.317396", "level": "INFO", "category": "system", "message": "REX 4.0 starting up"}
+{"timestamp": "2026-02-22T11:42:54.616739", "level": "INFO", "category": "security", "message": "login_success", "extra": {"username": "admin"}}
+{"timestamp": "2026-02-22T11:42:55.229593", "level": "INFO", "category": "system", "message": "GoogleVoiceListener initialized"}
+{"timestamp": "2026-02-22T11:42:55.259461", "level": "INFO", "category": "system", "message": "Google listener initialized"}
+{"timestamp": "2026-02-22T11:42:56.243244", "level": "INFO", "category": "system", "message": "Vosk listener initialized"}
+{"timestamp": "2026-02-22T11:42:56.451677", "level": "INFO", "category": "system", "message": "HybridVoiceListener ready (mode: google)"}
+{"timestamp": "2026-02-22T11:42:56.451677", "level": "INFO", "category": "audio", "message": "Calibrating (google mode)..."}
+{"timestamp": "2026-02-22T11:42:56.451677", "level": "INFO", "category": "audio", "message": "Calibrating for 2.0s..."}
+{"timestamp": "2026-02-22T11:42:58.689454", "level": "INFO", "category": "audio", "message": "Calibration complete"}
+{"timestamp": "2026-02-22T11:43:00.897965", "level": "INFO", "category": "audio", "message": "Calibrated: noise=31.2 threshold=46.9"}
+{"timestamp": "2026-02-22T11:43:00.986556", "level": "INFO", "category": "system", "message": "ProactiveEngine started"}
+{"timestamp": "2026-02-22T11:43:11.608323", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex find file documents' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:43:11.624428", "level": "INFO", "category": "intent", "message": "Classified: file_search (conf=0.85)"}
+{"timestamp": "2026-02-22T11:43:11.728625", "level": "INFO", "category": "command", "message": "file_search \u2192 FAIL", "extra": {"duration_sec": 0.104, "error": "I couldn't find 'file documents' on this computer."}}
+{"timestamp": "2026-02-22T11:43:20.623814", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex find' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:43:20.632026", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:43:30.442353", "level": "INFO", "category": "audio", "message": "Recognized: 'file get git' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:43:30.460292", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:43:40.057294", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:43:44.991321", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:43:49.999230", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:43:55.366547", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:44:00.863409", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:44:06.591975", "level": "INFO", "category": "audio", "message": "Recognized: 'find file generative' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:44:06.591975", "level": "INFO", "category": "intent", "message": "Classified: file_search (conf=0.85)"}
+{"timestamp": "2026-02-22T11:44:06.617159", "level": "INFO", "category": "command", "message": "file_search \u2192 FAIL", "extra": {"duration_sec": 0.025, "error": "I couldn't find 'file generative' on this computer."}}
+{"timestamp": "2026-02-22T11:44:17.340901", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:44:22.524667", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:44:28.704596", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:44:33.857581", "level": "INFO", "category": "audio", "message": "Recognized: 'find file logs' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:44:33.857581", "level": "INFO", "category": "intent", "message": "Classified: file_search (conf=0.85)"}
+{"timestamp": "2026-02-22T11:44:33.875465", "level": "INFO", "category": "command", "message": "file_search \u2192 FAIL", "extra": {"duration_sec": 0.018, "error": "I couldn't find 'file logs' on this computer."}}
+{"timestamp": "2026-02-22T11:44:42.556812", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:44:50.111700", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:44:55.288619", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:45:00.332738", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:45:05.493232", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:45:11.541530", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:45:11.557466", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:45:23.573858", "level": "INFO", "category": "audio", "message": "Recognized: 'games' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:45:23.589581", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:45:49.316269", "level": "INFO", "category": "audio", "message": "Recognized: 'file games' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:45:49.322479", "level": "INFO", "category": "intent", "message": "Classified: unknown (conf=0.00)"}
+{"timestamp": "2026-02-22T11:46:00.367697", "level": "INFO", "category": "audio", "message": "Recognized: 'status' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:46:00.367697", "level": "INFO", "category": "intent", "message": "Classified: status (conf=0.85)"}
+{"timestamp": "2026-02-22T11:46:00.772414", "level": "INFO", "category": "command", "message": "status \u2192 OK", "extra": {"duration_sec": 0.405, "error": null}}
+{"timestamp": "2026-02-22T11:46:18.602290", "level": "INFO", "category": "audio", "message": "Recognized: 'Rex configuration' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:46:18.606972", "level": "INFO", "category": "intent", "message": "Classified: config_view (conf=0.30)"}
+{"timestamp": "2026-02-22T11:46:18.619426", "level": "INFO", "category": "command", "message": "config_view \u2192 OK", "extra": {"duration_sec": 0.011, "error": null}}
+{"timestamp": "2026-02-22T11:46:26.280277", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:46:30.991585", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:46:35.394729", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:46:39.902591", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:46:46.647137", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:47:07.224050", "level": "INFO", "category": "audio", "message": "Recognized: 'hello' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:47:07.234476", "level": "INFO", "category": "intent", "message": "Classified: greeting (conf=1.00)"}
+{"timestamp": "2026-02-22T11:47:07.234476", "level": "INFO", "category": "command", "message": "greeting \u2192 OK", "extra": {"duration_sec": 0.0, "error": null}}
+{"timestamp": "2026-02-22T11:47:16.419884", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:47:20.983885", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:47:25.565863", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:47:30.146119", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:47:34.719251", "level": "WARNING", "category": "audio", "message": "No recognition results"}
+{"timestamp": "2026-02-22T11:47:39.301037", "level": "INFO", "category": "audio", "message": "Recognized: 'shutdown' (conf=0.95)"}
+{"timestamp": "2026-02-22T11:47:39.310627", "level": "INFO", "category": "intent", "message": "Classified: system_shutdown (conf=0.85)"}
+{"timestamp": "2026-02-22T11:47:39.310627", "level": "INFO", "category": "command", "message": "system_shutdown \u2192 OK", "extra": {"duration_sec": 0.0, "error": null}}
+{"timestamp": "2026-02-22T11:47:43.215280", "level": "INFO", "category": "system", "message": "ProactiveEngine stopped"}
+{"timestamp": "2026-02-22T11:47:46.734002", "level": "INFO", "category": "system", "message": "HybridVoiceListener shutting down..."}
+{"timestamp": "2026-02-22T11:47:46.734002", "level": "INFO", "category": "system", "message": "GoogleVoiceListener shutdown"}
+{"timestamp": "2026-02-22T11:47:46.857408", "level": "INFO", "category": "system", "message": "Stats \u2013 Google:12 Vosk:0 Errors:0"}
+{"timestamp": "2026-02-22T11:47:46.867393", "level": "INFO", "category": "system", "message": "REX 4.0 shutdown complete", "extra": {"total": 30, "successful": 18, "failed": 12, "avg_duration": 0.087, "by_intent": {"app_open": 11, "time_query": 2, "app_close": 5, "system_shutdown": 3, "web_search": 2, "app_minimize": 1, "file_search": 3, "status": 1, "config_view": 1, "greeting": 1}}}

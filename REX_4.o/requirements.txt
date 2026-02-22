@@ -1,0 +1,17 @@
+
+# ─── REX 4.0 — Python Dependencies ────────────────────────────
+# Install: pip install -r requirements.txt
+# Python:  3.10+  (uses match/case, dataclass_transform, etc.)
+
+# ── Voice & Audio ──
+pyttsx3==2.90           # Text-to-speech (sapi5 on Windows)
+vosk==0.3.45            # Offline speech recognition
+sounddevice==0.4.6      # Cross-platform audio I/O
+numpy==1.26.4           # Audio array processing
+
+# ── Utilities ──
+requests==2.31.0        # HTTP (weather, web-search fallback)
+psutil==5.9.7           # System / process introspection
+pywin32==306            # Windows COM / shell integration
+plyer==2.1.0            # Desktop notifications (cross-platform)
+cryptography==41.0.7    # Fernet encryption for stored secrets
