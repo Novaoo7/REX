@@ -1,0 +1,51 @@
+{
+  "morning": {
+    "name": "Morning Routine",
+    "description": "Start your day productively",
+    "actions": [
+      {
+        "type": "open_app",
+        "target": "chrome"
+      },
+      {
+        "type": "open_app",
+        "target": "notepad"
+      },
+      {
+        "type": "speak",
+        "text": "Good morning! Ready to start your day?"
+      }
+    ]
+  },
+  "work": {
+    "name": "Work Mode",
+    "description": "Focus on work",
+    "actions": [
+      {
+        "type": "open_app",
+        "target": "vscode"
+      },
+      {
+        "type": "open_app",
+        "target": "chrome"
+      },
+      {
+        "type": "speak",
+        "text": "Work mode activated"
+      }
+    ]
+  },
+  "sleep": {
+    "name": "Sleep Mode",
+    "description": "Wind down for the night",
+    "actions": [
+      {
+        "type": "close_all_apps"
+      },
+      {
+        "type": "speak",
+        "text": "Good night. Sleep well"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+[12:01:20] SYSTEM: REX 2.0 initialized - User: veer (admin)
+[12:01:32] SYSTEM: REX activated
+[12:01:34] USER: open logs
+[12:02:08] SYSTEM: Opened logs: 2026-01-08
+[12:02:08] USER: rex
+[12:02:11] USER: rex
+[12:02:16] USER: rex
+[12:02:24] USER: hello
+[12:02:33] USER: rex open file exit
+[12:02:40] USER: Confirmed: yes
+[12:02:42] SYSTEM: REX shutdown initiated
+[12:02:45] SYSTEM: REX 2.0 shutdown complete
+[12:03:05] SYSTEM: REX 2.0 initialized - User: veer (admin)
+[12:03:24] SYSTEM: REX activated
+[12:03:30] USER: open date
+[12:03:38] USER: open logs current
+[12:04:01] SYSTEM: REX deactivated
+[12:04:26] SYSTEM: REX activated
+[12:04:27] USER: rex
+[12:04:32] USER: open settings
+[12:05:15] SECURITY: Incorrect password attempt for: open_settings
+[12:05:19] USER: one cancel
+[12:05:33] USER: mode
+[12:05:41] SYSTEM: REX deactivated
+[12:07:27] SYSTEM: REX activated
+[12:07:39] SYSTEM: REX deactivated
+[12:09:55] SYSTEM: REX activated
+[12:10:06] USER: hey rex exit
+[12:10:17] USER: Confirmed: me yes sure
+[12:10:19] SYSTEM: REX shutdown initiated
+[12:10:22] SYSTEM: REX 2.0 shutdown complete
+[12:15:24] SYSTEM: REX 2.0 initialized - User: veer (admin)
+[12:15:39] SYSTEM: REX activated
+[12:15:40] USER: settings
+[12:15:45] USER: open settings
+[12:15:57] SECURITY: Password verified for: open_settings
+[12:16:00] SYSTEM: File search initiated: settings
+[12:16:11] SYSTEM: Opened: C:\Users\aupat\Local Settings
+[12:16:27] USER: rex
+[12:16:42] USER: open file
+[12:16:44] SYSTEM: File search initiated: file
+[12:16:50] SYSTEM: Opened: C:\Users\aupat\.p2\profiles.info
+[12:17:03] USER: rex
+[12:17:11] USER: open date
+[12:17:26] USER: open task current
+[12:17:29] SYSTEM: File search initiated: task current
+[12:18:57] SYSTEM: Search failed: task current
+[12:18:58] USER: hey
+[12:19:01] USER: hi
+[12:19:04] USER: hey rex start
+[12:19:07] USER: rex start
+[12:19:13] USER: hey
+[12:19:36] USER: hi
+[12:19:49] USER: hey open browser
+[12:19:55] USER: open browser
+[12:19:58] SYSTEM: Opened Chrome
+[12:20:03] USER: close chrome
+[12:20:07] USER: Confirmed: sure
+[12:20:10] SYSTEM: Closed chrome
+[12:20:29] USER: hey
+[12:20:52] USER: hi
+[12:21:15] USER: hey
+[12:21:22] USER: open
+[12:21:42] USER: open go logs
+[12:21:45] SYSTEM: File search initiated: go logs
+[12:22:34] SYSTEM: Search failed: go logs
+[12:22:35] USER: hi
+[12:22:38] USER: hey
+[12:22:46] USER: hey
+[12:23:23] USER: open folder go rex
+[12:23:26] SYSTEM: File search initiated: folder go rex
+[12:24:14] SYSTEM: Search failed: folder go rex
+[12:24:16] USER: hey
+[12:24:48] USER: open folder rex
+[12:24:51] SYSTEM: File search initiated: folder rex
+[12:25:39] SYSTEM: Search failed: folder rex
+[12:25:40] USER: browser
+[12:25:48] USER: hey create folder
+[12:25:53] USER: the create folder the two
+[12:26:00] SYSTEM: Created folder: C:\Users\aupat\Documents\the  the two
+[12:26:25] USER: hi
+[12:26:38] USER: delete folder the to
+[12:26:41] SYSTEM: File search initiated: folder the to
+[12:27:30] USER: hey
+[12:27:37] USER: delete folder the go to
+[12:27:40] SYSTEM: File search initiated: folder the go to
+[12:28:29] USER: hey
+[12:28:32] USER: hey
+[12:28:39] USER: delete folder go to
+[12:28:42] SYSTEM: File search initiated: folder go to
+[12:29:32] USER: hi
+[12:29:42] USER: rex
+[12:29:47] USER: folder go to
+[12:29:56] USER: chrome folder go to
+[12:30:06] USER: delete folder go to
+[12:30:09] SYSTEM: File search initiated: folder go to
+[12:30:58] USER: hey
+[12:31:02] USER: hey
+[12:31:14] USER: hey manager
+[12:31:18] USER: hey rex
+[12:31:28] USER: hey rex
+[12:31:31] USER: rex
+[12:31:36] USER: task me
+[12:31:41] USER: exit
+[12:31:49] USER: Confirmed: yes
+[12:31:51] SYSTEM: REX shutdown initiated
+[12:31:54] SYSTEM: REX 2.0 shutdown complete

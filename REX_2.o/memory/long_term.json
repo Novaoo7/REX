@@ -1,0 +1,30 @@
+{
+  "preferences": {
+    "default_browser": "chrome",
+    "default_editor": "notepad",
+    "work_hours": {
+      "start": 9,
+      "end": 17
+    },
+    "verbosity": "normal",
+    "user_name": "veer",
+    "user_role": "admin"
+  },
+  "patterns": {
+    "frequent_apps": {
+      "chrome": 4,
+      "notepad": 1
+    },
+    "frequent_files": {},
+    "daily_routines": []
+  },
+  "knowledge": {
+    "contacts": {},
+    "important_dates": {},
+    "custom_facts": {}
+  },
+  "learning": {
+    "corrections": {},
+    "command_aliases": {}
+  }
+}

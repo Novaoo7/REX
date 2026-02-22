@@ -1,0 +1,11 @@
+[16:57:00] SYSTEM: REX 2.0 initialized - User: veer (admin)
+[16:57:05] SYSTEM: REX activated
+[16:57:09] USER: open open logs
+[16:57:33] SYSTEM: Opened logs: 2026-01-16
+[16:57:34] USER: what
+[16:57:42] SYSTEM: REX deactivated
+[16:57:51] SYSTEM: REX activated
+[16:57:56] USER: rex exit
+[16:58:01] USER: Confirmed: sure
+[16:58:03] SYSTEM: REX shutdown initiated
+[16:58:06] SYSTEM: REX 2.0 shutdown complete

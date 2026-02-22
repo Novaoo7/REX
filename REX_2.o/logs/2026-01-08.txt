@@ -1,0 +1,43 @@
+[12:55:33] SYSTEM: REX 2.0 initialized - User: veer (admin)
+[12:55:55] SYSTEM: REX activated
+[12:55:57] USER: hey hey
+[12:56:11] SYSTEM: Low confidence command cancelled: today calcc was mode
+[12:56:12] USER: open chrome
+[12:56:15] SYSTEM: Opened Chrome
+[12:56:31] USER: task manager date was chrome microphone work yesterday
+[12:56:37] USER: close chrome
+[12:56:48] USER: Confirmed: yes sure
+[12:56:50] SYSTEM: Closed chrome
+[12:57:04] USER: today date the today me the tell me the close chrome
+[12:57:22] USER: search hello to code logs what was chrome
+[12:57:26] USER: rex open logs
+[12:57:37] USER: rex today
+[12:57:44] USER: rex open logs
+[12:58:00] USER: rex chrome go chrome
+[12:58:08] SYSTEM: REX deactivated
+[12:58:28] SYSTEM: REX activated
+[12:58:30] USER: rex open logs
+[12:58:43] USER: rex today
+[12:58:48] USER: camera
+[12:58:58] SYSTEM: REX deactivated
+[12:59:03] SYSTEM: REX activated
+[12:59:13] USER: rex exchrome
+[12:59:21] USER: manager
+[12:59:26] USER: rex shutdown
+[12:59:32] USER: shutdown camera yes
+[12:59:40] SYSTEM: REX deactivated
+[12:59:49] SYSTEM: REX activated
+[13:00:01] USER: rex exchrome
+[13:00:38] USER: exchrome shutdown rex exchrome rex shutdown rex rex
+[13:00:42] USER: Confirmed: yes
+[13:00:44] SYSTEM: REX shutdown initiated
+[13:00:45] USER: sure
+[13:00:51] USER: rex
+[13:01:03] USER: date yesterday
+[13:01:13] USER: what was chrome
+[13:01:27] SYSTEM: REX deactivated
+[13:02:21] SYSTEM: REX activated
+[13:02:27] USER: rex
+[13:02:35] USER: exchrome
+[13:03:08] USER: no
+[13:03:24] SYSTEM: REX deactivated
